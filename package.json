@@ -1,14 +1,15 @@
 {
     "name": "cordova-windows",
-    "version": "3.9.0-dev",
+    "version": "3.9.0-nufix-1",
     "description": "cordova-windows release",
     "main": "bin/create",
     "repository": {
         "type": "git",
-        "url": "https://github.com/apache/cordova-windows"
+        "url": "https://github.com/litehelpers/cordova-windows_universal_fix"
     },
     "keywords": [
         "windows",
+        "universal",
         "cordova",
         "apache"
     ],
@@ -39,6 +40,6 @@
         "shelljs",
         "elementtree"
     ],
-    "author": "Apache Software Foundation",
+    "author": "Apache Software Foundation/Litehelpers",
     "license": "Apache Version 2.0"
 }

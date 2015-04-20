@@ -18,11 +18,14 @@
 # under the License.
 #
 -->
-## Release Notes for Cordova (Windows) ##
+## Release Notes for Cordova (Windows Universal) ##
 
 Update these notes using: git log --pretty=format:'* %s' --topo-order --no-merges *remote*/3.5.x...HEAD
 
-cordova-windows is a library that enables developers to create Windows 8/8.1 and WP8.1 application projects that support Cordova APIs.
+cordova-windows is a library that enables developers to create Windows 8.1 and WP8.1 application projects that support Cordova APIs.
+
+[3.9.0-nufix-1]
+* CB-8866: add "Mixed Platforms" and "Win32"; CB-8869: Remove Windows 8.0 from Windows Universal
 
 [3.8.1]
 * CB-8796 updated package.json version manually
